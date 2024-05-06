@@ -1,4 +1,4 @@
-# project in java
+# project in java collection
 Room Rental Service using Linked Hashmap in java
 app--->Main method
 entity--->all the entity classes which needed for project
